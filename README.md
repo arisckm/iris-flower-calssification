@@ -5,7 +5,15 @@ A simple yet powerful **Machine Learning** app that classifies iris flowers into
 - Versicolor
 - Virginica
 
-This app uses the **Iris dataset** from scikit-learn and a **Logistic Regression** model to predict species based on:
+This app uses the **Iris dataset** from scikit-learn and a **Model
+
+Algorithm: Random Forest Classifier (100 trees)
+
+Preprocessing: StandardScaler
+
+Accuracy: 100% on test data
+
+** model to predict species based on:
 - Sepal Length (cm)
 - Sepal Width (cm)
 - Petal Length (cm)
